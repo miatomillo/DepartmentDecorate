@@ -1,1 +1,37 @@
-
+body {
+    background-color:floralwhite
+}
+h1 {
+    background-color:darksalmon ;
+    opacity: 0.5 ;
+    color:floralwhite;
+        font-family: Courier ;
+            font-size: 40 ;
+    font-weight: bold
+}
+p {
+    color:darkolivegreen ;
+    background-color:floralwhite;
+        font-family: Courier;
+    font-size: 18
+}
+ul {
+    font-family:fantasy;
+        color:darksalmon ;
+            font-size: 18
+}
+th {
+    background-color:darksalmon ;
+        color:floralwhite ;
+    font-family: fantasy
+}
+tr {
+    color:darkolivegreen ;
+        font-family: fantasy
+}
+a:link {
+    color:darkolivegreen
+}
+a:visited {
+    color:darkolivegreen
+}
