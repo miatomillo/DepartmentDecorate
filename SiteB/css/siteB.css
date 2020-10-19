@@ -1,1 +1,57 @@
-
+body {
+    background-color:azure ;
+    text-align: center ;
+        
+}
+h1 {
+    background-color:cadetblue ;
+    opacity: 0.5 ;
+    color:azure;
+        font-family:serif ;
+            font-size: 40 ;
+    font-weight: bold
+}
+p {
+    color:cadetblue ;
+    ;
+        font-family:inherit;
+    font-weight: bold ;
+    font-size: 18
+}
+ul {
+    
+    font-family: Impact;
+        color:darkgrey ;
+            font-size: 30 ;
+                list-style-type:circle ;
+                   list-style-position: inside ;
+                       border: 5px solid ;
+    text-align: center ;
+    padding: 20px ;
+    border-radius: 20px ;
+    -moz-box-shadow: 5px 5px 5px 5px #777777 ;
+        -webkit-box-shadow: 5px 5px 5px 5px #777777 ;
+        box-shadow: 5px 5px 5px 5px ;
+       
+    
+    
+}
+th {
+    background-color:darkgrey ;
+        color:azure ;
+    font-family: fantasy
+}
+tr {
+    color:darkgrey ;
+        font-family: fantasy
+}
+a:link {
+    color:darkgrey
+}
+a:visited {
+    color:darkgrey
+}
+img.small {
+    width: 100px ;
+    height: 100px ;
+}

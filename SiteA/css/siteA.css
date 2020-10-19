@@ -18,7 +18,9 @@ p {
 ul {
     font-family:fantasy;
         color:darksalmon ;
-            font-size: 18
+            font-size: 30 ;
+                list-style-image: url('../pics/arrow.png') ;
+                   list-style-position: inside 
 }
 th {
     background-color:darksalmon ;
@@ -34,4 +36,8 @@ a:link {
 }
 a:visited {
     color:darkolivegreen
+}
+img.small {
+    width: 100px ;
+    height: 100px ;
 }
